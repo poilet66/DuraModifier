@@ -1,0 +1,5 @@
+name: DuraModifier
+version: 1.0
+main: me.poilet66.duramodifier.DuraModifier
+api-version: 1.15
+commands:

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DuraModifier:jar">
+    <output-path>$USER_HOME$/Documents/Completed Plugins</output-path>
+    <root id="archive" name="DuraModifier.jar">
+      <element id="module-output" name="DuraModifier" />
+    </root>
+  </artifact>
+</component>
